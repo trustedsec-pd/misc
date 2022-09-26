@@ -15,6 +15,8 @@ var b = document.createElement("button");
 b.type="submit";
 b.textContent = 'Click Me...';
 
+alert("XSS Pop Up");
+=======
 
 body.append(u)
 body.append(p)
